@@ -22,7 +22,8 @@ body {
 }
 
 .foto {
-    width: 20rem;
+    width: 22rem;
+    height: 22rem;
     position: absolute;
     border-radius: 100%;
     top: 10rem;
